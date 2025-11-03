@@ -63,7 +63,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TarjetaSube",
+              "Title": "TarjetaSube.csproj",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Fran\\escuela\\mauri\\pruebascodecov\\TarjetaSube\\TarjetaSube.csproj",
               "RelativeDocumentMoniker": "TarjetaSube\\TarjetaSube.csproj",
               "ToolTip": "C:\\Users\\Usuario\\Documents\\Fran\\escuela\\mauri\\pruebascodecov\\TarjetaSube\\TarjetaSube.csproj",
@@ -83,8 +83,7 @@
               "RelativeToolTip": "TarjetaSubeTest\\TarjetaSubeTest.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-01T22:30:07.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-01T22:30:07.432Z"
             },
             {
               "$type": "Document",
@@ -168,8 +167,7 @@
               "RelativeToolTip": "TarjetaSube\\FranquiciaCompleta.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAxwBsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T03:00:44.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-31T03:00:44.731Z"
             },
             {
               "$type": "Document",
